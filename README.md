@@ -1,44 +1,15 @@
-# 文本加密解密工具一个使用 C++ 和 CMake 构建的简易加密解密工具。
+#具体内容已在文档中表明 
+   我的语雀：【点击查看】 
+                  
 
-## 功能特性
 
-- ✅ 文本加密/解密
-- ✅ 文件加密/解密  
-- ✅ 凯撒密码算法
-- ✅ 命令行交互界面
+https://www.yuque.com/leely-foujb/sousmd/ycvtf556thk5y2bg
+ https://www.yuque.com/leely-foujb/sousmd/mfdz0cfbe7m13a2w
+https://www.yuque.com/leely-foujb/sousmd/byxhastu7gwmo1u1
+https://www.yuque.com/leely-foujb/sousmd/qxemz89hgxpghma3
+https://www.yuque.com/leely-foujb/sousmd/ggh7nzge5efvoum7
+https://www.yuque.com/leely-foujb/sousmd/tuoghc6ecsl33ed9
 
-## 项目结构
-CryptoTool/
-├── CMakeLists.txt
-├── include/
-│ ├── Crypto.h
-│ ├── FileHandler.h
-│ └── Menu.h
-├── src/
-│ ├── Crypto.cpp
-│ ├── FileHandler.cpp
-│ ├── Menu.cpp
-│ └── main.cpp
-└── README.md
-
-text
-
-## 构建说明
-
-```bash
-mkdir build && cd build
-cmake ..
-make
-./CryptoTool
-使用方法
-运行程序后选择功能：
-
-1: 文本加密
-
-2: 文本解密
-
-3: 文件加密
-
-4: 文件解密
-
-0: 退出
+第二周docker:https://www.yuque.com/leely-foujb/sousmd/lz6usduyy9d8z0i8
+     小项目：https://www.yuque.com/leely-foujb/sousmd/vpnil0m1luysyy0t
+     Cmake：https://www.yuque.com/leely-foujb/sousmd/bogtq2glyeo2te0t
