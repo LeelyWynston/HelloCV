@@ -14,4 +14,6 @@ https://www.yuque.com/leely-foujb/sousmd/tuoghc6ecsl33ed9
      小项目：https://www.yuque.com/leely-foujb/sousmd/vpnil0m1luysyy0t
      Cmake：https://www.yuque.com/leely-foujb/sousmd/bogtq2glyeo2te0t
      kasa:https://www.yuque.com/leely-foujb/sousmd/uy4wi692kpgdf99g
+
+第三周 学习笔记 https://www.yuque.com/leely-foujb/sousmd/la6dghagpd3de64g
      
